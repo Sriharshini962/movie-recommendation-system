@@ -64,3 +64,6 @@ pip install -r requirements.txt
 
 streamlit run app.py
 
+## Screenshot
+
+![Movie Recommendation System](screenshot.png)
